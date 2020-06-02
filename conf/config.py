@@ -25,7 +25,7 @@ DEFAULT_LANG = 'ja'
 TZone = "Asia/Tokyo"
 
 # account
-ADMIN_ACCOUNT = "admin@xxx.com"
+ADMIN_ACCOUNT = "t_mayumi@works-intex"
 DOMAIN_ID = 10219264
 
 # api
