@@ -36,11 +36,11 @@ SERVER_ID = "88fbd6f5e3cd4966b5ac3d8f9b662f42"
 SECRET_KEY_NAME = "private_20200602160254.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://in-tex-lineworks.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-34-194-198-176.compute-1.amazonaws.com"
+DB_NAME = "da2445psr3p04p"
+DB_USER = "iygrduikcqtlgq"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "1ae974091a6b2a9dd750c9293da7d170a66e5e35fbe4d35e31c6f58f05f33def"
